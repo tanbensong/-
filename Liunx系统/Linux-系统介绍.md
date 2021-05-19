@@ -2,6 +2,7 @@
 #### Linux是一种操作系统！！
 - ———— 曾经 被Microsoft 视为最大的威胁
 - ———— 而今 互联网领域的幕后老大
+
 ![神威 太湖之光](/media/images/editor/linux/linux-shenwei_20201114130248335580.jpg "神威 太湖之光")
 
 #### 超级计算机 TOP 500
@@ -18,6 +19,7 @@ UNIX诞生，1969年底
 - 根据MULTICS项目的经验开发了一个多任务系统 ———— UNICS，后改为UNIX
 - 1973年，用C语言重写了UNIX
 - 1978年，有大约600台计算机运行UNIX
+
 ![Ken Thompson、Dennis Ritchie](/media/images/editor/linux/KenThompson_20201114133331326318.jpg "Ken Thompson、Dennis Ritchie")
 
 #### Linux的诞生
@@ -25,6 +27,7 @@ Linux之父，Linus Torwalds
 - 1991年10月，发布0.02版（都一个公开版）内核
 - 1994年03月，发布1.0版内核
 - 标准读音：“哩呐科斯”
+
 ![Linux Torwalds](/media/images/editor/linux/LinusTorwalds_20201114140823015621.png "Linux Torwalds")
 
 
@@ -53,6 +56,7 @@ Linux之父，Linus Torwalds
 红帽Linux企业版
 - 简称RHEL（Red Hat Enterprise Linux）
 - [http://www.redhat.com/](http://www.redhat.com/)
+
 ![RedHat](/media/images/editor/linux/RedHat_20201114145755753118.png "RedHat")
 
 Fedora Core 社区版
